@@ -16,6 +16,7 @@ Enumerated in no particular order, and not necessarily one blog post per subject
 - blocks -- blocks and callbacks; blocks in notifications; yielding; general memory management related to blocks
 - atomic/nonatomic
 - strong/weak relationships
+- accessors
 - pointers
 - delegates and data sources
 - threads, threading
