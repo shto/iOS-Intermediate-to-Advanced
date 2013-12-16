@@ -20,6 +20,7 @@ Enumerated in no particular order, and not necessarily one blog post per subject
 - pointers
 - delegates and data sources
 - threads, threading
+- complier: compiler information, pre-compile headers
 - when views load (loadView, viewDidLoad, awakeFromNib)
 - common good practices, e.g. init with nib directly in init
 - networking, AFNetworking
