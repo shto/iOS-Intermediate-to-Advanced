@@ -26,6 +26,7 @@ Enumerated in no particular order, and not necessarily one blog post per subject
 - networking, AFNetworking
 - ReactiveCocoa
 - a look at MVVM as an alternative to MVC
+- subclass UIViews and perform UI code there instead of overloading it in a UIViewController
 - iPads; universal app bundles vs. device specific ones (i.e. separate app for iPad)
 - Some psychological points: Keeping yourself motivated; Working on your own projects; should you contribute to open source?; following people, discussions, trends; joining meet-ups; speaking at meet-ups; work on non-related subjects on the side; having patience; learning by doing
 - picking another skill when you become better at Objective-C: server side development, networking, design, UX, marketing, sales etc. Reuse knowledge in between skills, broaden your horizon.
