@@ -3,7 +3,7 @@ iOS Intermediate to Advanced
 
 Proposed subjects for becoming a better iOS developer. Subjects aimed for https://medium.com/@shtopointo
 
-Enumerated in no particular order, and not necessarily one blog post per subject:
+Enumerated in no particular order:
 
 - the beauty of clean code: code refactoring, design patterns, best practices
 - comparative analysis of code (before/after, different possibilities for solving a problem)
